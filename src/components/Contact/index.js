@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { useRef } from 'react';
-import emailjs from '@emailjs/browser';
+import emailjs, { send } from '@emailjs/browser';
 import { Snackbar } from '@mui/material';
 
 const Container = styled.div`
@@ -130,7 +130,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_tox7kqs', 'template_nv7k7mj', form.current, 'SybVGsYS52j2TfLbi')
+    emailjs.sendForm('service_mo4ozvd', 'template_021hx1n', form.current, '9b04O75FhLA3drG0a')
       .then((result) => {
         setOpen(true);
         form.current.reset();
