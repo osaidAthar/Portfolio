@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Portfolio/static/js/main.c2618f24.js",
+    "main.js": "/Portfolio/static/js/main.7e0cbf42.js",
     "static/media/o.png": "/Portfolio/static/media/o.c84f3b6cb1835cc9aaae.png",
+    "static/media/OsaidAthar.pdf": "/Portfolio/static/media/OsaidAthar.701d8e18f305313a5027.pdf",
     "index.html": "/Portfolio/index.html",
     "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
-    "main.c2618f24.js.map": "/Portfolio/static/js/main.c2618f24.js.map"
+    "main.7e0cbf42.js.map": "/Portfolio/static/js/main.7e0cbf42.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.c2618f24.js"
+    "static/js/main.7e0cbf42.js"
   ]
 }
