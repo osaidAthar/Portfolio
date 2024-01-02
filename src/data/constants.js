@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/osaidAthar",
   resume:
-    "#",
+    "https://drive.google.com/file/d/18fdsjxeWoMmd9sy9sbV6JUk7WKIfvI6x/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/osaid-athar-486774247/",
   twitter: "https://twitter.com/OsaidAthar2",
   insta: "https://www.instagram.com/",
