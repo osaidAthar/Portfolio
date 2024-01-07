@@ -155,14 +155,14 @@ export const education = [
     id: 0,
     img: "https://upload.wikimedia.org/wikipedia/commons/6/60/RCoE_logo.jpg",
     school: "Rizvi college sci art and com | Maharashtra Board",
-    date: "Mar 2019 - Apr 2020",
+    date: "Mar 2020 - Apr 2021",
     // grade: "48.2%",
     desc: "I completed my class 12 high school education at Rizvi college sci art and com | Maharashtra Board, where I studied Science with Computer Science.",
     degree: "HSC(XII), Science with Computer",
   },
   {
     id: 1,
-    img: "http://www.rizvispringfieldssc.edu.in/images/Rizvi_Educational_Society.png",
+    img: "https://img.freepik.com/free-vector/gradient-high-school-logo-design_23-2149626935.jpg?w=740&t=st=1704650043~exp=1704650643~hmac=99cb4b47f9800ad6054fa015c6035e5eb33da25edd0a529c7109c86b799fa2bc",
     school: "Rahnuma english high school| Maharashtra Board",
     date: "Apr 2017 - Mar 2018",
     // grade: "63.3%",
@@ -178,7 +178,8 @@ export const projects = [
     title: "Doctor App",
     date: "Nov 2023 - Dec 2023",
     description:
-      "Developed a full-stack web application that allows users to login/register for, apply doctor, and book appointment , recive notification and edit profile, appointment accept/reject option etc.",
+      "Implemented user-friendly interface for browsing doctor profiles, checking availability, and booking appointments.Improved accessibility by allowing doctors to update schedules and manage appointmen",
+    // "Developed a full-stack web application that allows users to login/register for, apply doctor, and book appointment , recive notification and edit profile, appointment accept/reject option etc.",
     image:
       "https://i.ibb.co/56S9sbN/Sc.jpg",
     tags: ["React Js", "React", "MongoDb", "Node Js"],
