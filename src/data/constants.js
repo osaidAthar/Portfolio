@@ -161,7 +161,7 @@ export const projects = [
       "Implemented user-friendly interface for browsing doctor profiles, checking availability, and booking appointments.Improved accessibility by allowing doctors to update schedules and manage appointmen",
     image:
       "https://i.ibb.co/56S9sbN/Sc.jpg",
-    tags: ["React Js", "React", "MongoDb", "Node Js"],
+    tags: ["React Js", "React", "MongoDb"],
     category: "web app",
     github: "https://github.com/osaidAthar/Doctor-APP",
     webapp: "#",
